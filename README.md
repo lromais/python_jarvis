@@ -1,6 +1,6 @@
-#Jarvis Python
+# Jarvis Python
 
-##run on OS Ubuntu 24.04
+## run on OS Ubuntu 24.04
 ## Download this repo execute pip install -r requirements.txt and run this commands above:
 
 ```shell
