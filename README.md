@@ -1,6 +1,9 @@
+#Jarvis Python
 
+##run on OS Ubuntu 24.04
+## Download this repo execute pip install -r requirements.txt and run this commands above:
 
-```
+```shell
 sudo apt install portaudio19-dev ffmpeg espeak-ng sox -y
 sudo apt install python3-pyaudio
 sudo apt update
@@ -17,9 +20,4 @@ cd /usr/local/bin/
 mv piper bin_piper
 sudo ln -s /usr/local/bin/bin_piper/piper /usr/local/bin/piper
 sudo chmod +x /usr/local/bin/piper
-```# python_jarvis
-# python_jarvis
-# python_jarvis
-# python_jarvis
-# python_jarvis
-# python_jarvis
+```
